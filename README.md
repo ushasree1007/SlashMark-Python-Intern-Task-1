@@ -25,11 +25,7 @@ This project is a modern and responsive To-Do List Web Application developed usi
 * HTML5
 * Tailwind CSS
 * Local Storage
-* 
-## 🎥 Demo Video
-
-Project working demo video is also attached/shared in the repository.
-
+  
 ## 📌 Learning Outcomes
 
 Through this task, I learned:
