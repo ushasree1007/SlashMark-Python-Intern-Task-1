@@ -1,7 +1,7 @@
 # SlashMark-Python-Intern-Task-1
 # APSCHE Python Internship – Task 1 Completed ✅
 
-Successfully completed **Task 1 – Beautiful To-Do List Web Application** as part of the APSCHE Python Internship Program.
+Successfully completed **Task 1 –  To-Do List Web Application** as part of the APSCHE Python Internship Program.
 
 ## 🚀 Project Overview
 
@@ -37,11 +37,8 @@ Through this task, I learned:
 * Responsive Web Development
 * GitHub Project Uploading
 
-## 📂 GitHub Repository
-
-Task 1 successfully completed and uploaded to GitHub.
-
-#Python #ReactJS #WebDevelopment #Internship #APSCHE #TodoList #FrontendDevelopment #GitHubProject
-
-Files i have used 
+Files :
 [basic APSCHE PYTHON INTERN TASK 1.zip](https://github.com/user-attachments/files/27562720/basic.APSCHE.PYTHON.INTERN.TASK.1.zip)
+
+TOdo List Application :
+[todo_app.html](https://github.com/user-attachments/files/27562791/todo_app.html)
