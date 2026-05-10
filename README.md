@@ -40,5 +40,5 @@ Through this task, I learned:
 Files :
 [basic APSCHE PYTHON INTERN TASK 1.zip](https://github.com/user-attachments/files/27562720/basic.APSCHE.PYTHON.INTERN.TASK.1.zip)
 
-TOdo List Application :
+Todo List Application :
 [todo_app.html](https://github.com/user-attachments/files/27562791/todo_app.html)
